@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import 'roulette.css';
+import'roulette.css';
 
 const Roulette = () => {
   const [winningSpin, setWinningSpin] = useState(null);
